@@ -20,7 +20,7 @@ Para fixar o conteúdo, o programa captura a entrada do usuário e a armazena na
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Gramand/desafio-amigo-secreto.git
+   git clone https://github.com/Gramand/challenge-amigo-secreto_pt.git
    ```
 2. Abra o arquivo `index.html` no navegador ou rode em um servidor local.
 
