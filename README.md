@@ -14,7 +14,6 @@ Para fixar o conteúdo, o programa captura a entrada do usuário e a armazena na
 - HTML
 - CSS
 - JavaScript
-- (Outras tecnologias, se aplicável)
 
 ## Como Usar
 
